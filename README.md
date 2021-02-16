@@ -1,2 +1,2 @@
-# Todo_Blog
-todo blog made by django rest framework
+# Todo_blog
+todo blog with django
