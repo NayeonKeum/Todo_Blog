@@ -1,0 +1,8 @@
+# IDE config
+.idea/
+
+# venv 
+todovenv/
+
+# DB
+db.sqlite3
