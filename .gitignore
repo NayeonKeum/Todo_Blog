@@ -6,3 +6,6 @@ todovenv/
 
 # DB
 db.sqlite3
+
+# chche
+__pycache__/
