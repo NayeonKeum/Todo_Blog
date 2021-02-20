@@ -1,0 +1,11 @@
+# IDE config
+.idea/
+
+# venv 
+todovenv/
+
+# DB
+db.sqlite3
+
+# chche
+__pycache__/
